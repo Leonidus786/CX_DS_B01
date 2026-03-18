@@ -1,2 +1,12 @@
-Hello world
-This is a new line 
+Bhaukaal
+Yahi hota h yahi hogaAppend operation taking place!
+Python is cool.Hello, world!
+ This is a new line.
+Sudhakar is a mango man.Append operation taking place!
+Python is cool.
+Hello, world!
+ This is a new line.
+Sudhakar is a mango man.
+First line 
+Second line 
+Third line
